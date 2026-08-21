@@ -19,6 +19,12 @@ mergeable entity in git. `bug` and `identity` are two instances of it. Read
 > minimal and deliberate: prefer additive new entity namespaces and new operation types
 > (the format is explicitly designed for this — see *Additive extensibility* below) over
 > edits to existing core types.
+>
+> Fork-local planning and findings live in [`fork-notes/`](fork-notes/) — start there for
+> why this fork exists and what is currently in flight. Note in particular
+> [`fork-notes/2026-08-20_spec-entity-id-defect.md`](fork-notes/2026-08-20_spec-entity-id-defect.md):
+> `doc/spec/dag-entity.md` §5.2 and §7 state the entity-ID derivation **incorrectly**, so do
+> not implement an ID from that section without reading the finding first.
 
 ## Build, test, lint
 
