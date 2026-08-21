@@ -13,7 +13,7 @@
         "email": "alice@example.com",
         "nonce": "AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
       },
-      "expected_id": "<run: go test ./doc/spec/... -run TestVectors to generate>"
+      "expected_id": "63f11b2fffac2a312850b87431cb37e1f2f423b61ef64df49ac46524cbc512b3"
     }
   ],
 

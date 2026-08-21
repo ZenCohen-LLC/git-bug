@@ -23,7 +23,7 @@
         ]
       },
       "note": "The expected_id below is the SHA-256 of the compact JSON encoding of input (no spaces). Fill in by running the reference implementation.",
-      "expected_id": "<run: go test ./doc/spec/... -run TestVectors to generate>"
+      "expected_id": "e38873b1914f55f93b5c1bf7c90539ea309c8edfbd5cde159e5f07559da576f0"
     }
   ],
 
